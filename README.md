@@ -3,6 +3,8 @@ Author: MistaUnderhill
 
 This script adds Need for Speed-style speed cameras around the map, with configurable police responses. It also includes a leaderboard for tracking the top speeds of players. The script utilizes QB-Core, OxMySQL, and CritLobby.
 
+TRY IT HERE: cfx.re/join/d4vr33
+
 Features - 
 Speed Cameras: Speed cameras are placed around the map to monitor vehicle speed.
 Police Response: Optional configurable police response to speeding violations, with multiple options for different levels of police involvement.
